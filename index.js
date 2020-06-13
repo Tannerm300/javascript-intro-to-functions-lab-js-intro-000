@@ -13,7 +13,7 @@ function logWhisper(hello) {
 function sayHiToGrandma(hello) {
   var cantHello = "I can't hear you!"
   var yesHello = "YES INDEED!"
-  var lovHello = "I love you, too"
+  var lovHello = "I love you, too."
   if (hello.toLowerCase(hello) === hello) {
     return cantHello
   }
