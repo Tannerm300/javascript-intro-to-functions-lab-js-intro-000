@@ -20,7 +20,7 @@ function sayHiToGrandma(hello) {
   else if (hello.toUpperCase(hello) === hello) {
     return yesHello
   }
-  else if ("I love you, Grandma" === hello) {
+  else if ("I love you, Grandma." === hello) {
     return lovHello
   }
 }
